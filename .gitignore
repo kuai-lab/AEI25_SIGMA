@@ -1,3 +1,17 @@
+# macOS
+.DS_Store
+
+# Project-specific
+output/
+data/
+submodules/
+*.ply
+*.pth
+*.pt
+wandb/
+tensorboard/
+tb_logs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
