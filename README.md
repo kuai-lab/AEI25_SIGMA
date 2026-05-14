@@ -57,7 +57,7 @@ pip install -r requirements.txt
 <!-- TODO: Add data download link -->
 You can download data from the [previous work](https://github.com/YuLiu-LY/ArtGS)
 
-Pretrained checkpoints can be downloaded [here](https://kuaicv.synology.me/AEI25/SIGMA/results.zip).
+Pretrained checkpoints can be downloaded [here](https://kuaicv.synology.me/weights/AEI25/SIGMA/results.zip).
 
 ## Common Commands
 
