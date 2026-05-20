@@ -91,6 +91,18 @@ You can override defaults with the following flags:
 | `--no-random-bg` | Disable random background color |
 | `--no-art-type-prior` | Disable articulation type prior |
 
+## Citation
+```tex
+@article{jung2026single,
+  title={Single image-based Gaussian splatting for 3D reconstruction of movable articulated objects},
+  author={Jung, Hwanhee and Lee, Seunggwan and Yoon, Jeongyoon and Huang, Qixing and Kim, Sangpil},
+  journal={Advanced Engineering Informatics},
+  volume={70},
+  pages={104191},
+  year={2026},
+  publisher={Elsevier}
+}
+```
 
 ## Acknowledgement
 We thank the fantastic works [PARIS](https://github.com/3dlg-hcvc/paris), [DTA](https://github.com/NVlabs/DigitalTwinArt), and [ArtGS](https://articulate-gs.github.io/) for their pioneer code release.
